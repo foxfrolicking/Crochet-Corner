@@ -1,37 +1,45 @@
-   #yin-yang {
-      width: 96px;
-      box-sizing: content-box;
-      height: 48px;
-      background: #eee;
-      border-color: red;
-      border-style: solid;
-      border-width: 2px 2px 50px 2px;
-      border-radius: 100%;
-      position: relative;
-    }
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
-    #yin-yang:before {
-      content: "";
-      position: absolute;
-      top: 50%;
-      left: 0;
-      background: #eee;
-      border: 18px solid red;
-      border-radius: 100%;
-      width: 12px;
-      height: 12px;
-      box-sizing: content-box;
-    }
+html, body {
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
 
-    #yin-yang:after {
-      content: "";
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      background: red;
-      border: 18px solid #eee;
-      border-radius: 100%;
-      width: 12px;
-      height: 12px;
-      box-sizing: content-box;
-    }
+.container {
+    height: 100vh;
+    width: 100vw;
+    overflow-y: scroll;
+    scroll-snap-type: y mandatory;
+    scroll-behavior: smooth;
+}
+
+.section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: white;
+    scroll-snap-align: start;
+}
+
+#section1 {
+    background-color: #ff6347; /* Tomato */
+}
+
+#section2 {
+    background-color: #4682b4; /* Steel Blue */
+}
+
+#section3 {
+    background-color: #3cb371; /* Medium Sea Green */
+}
+
+#section4 {
+    background-color: #ffa500; /* Orange */
+}
