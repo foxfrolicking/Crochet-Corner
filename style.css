@@ -76,9 +76,6 @@ a {
 a:hover {
 	opacity: 0.75;
 }
- .hero-content-area h3 {
-    margin-left: 100px; 
-  }
 
 header nav {
 	display: flex;
@@ -90,8 +87,3 @@ header nav li {
 	margin: 0 15px;
 }
 
-@media (max-width: 800px) {
-	header {
-		padding: 20px 50px;
-		flex-direction: column;
-	}
