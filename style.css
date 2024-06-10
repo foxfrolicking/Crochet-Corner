@@ -29,23 +29,23 @@ html, body {
 }
 
 #section1 {
-   background-image: url('https://cdn.glitch.global/18595e04-8ce4-4760-a22d-544429cc1ce8/IMG_1893copy.png?v=1717638305033');
+   background-image: url('https://cdn.glitch.global/18595e04-8ce4-4760-a22d-544429cc1ce8/20240610_124923(1).jpg?v=1717990376403');
    background-repeat: no-repeat; /* Tomato */
 }
 
 #section2 {
    background-image: url('https://cdn.glitch.global/18595e04-8ce4-4760-a22d-544429cc1ce8/New%20Project(12)555.png?v=1717820408774');
-    background-color: #4682b4; /* Steel Blue */
+    background-color: #3ea7d9; /* Steel Blue */
 }
 
 #section3 {
   background-image: url('https://cdn.glitch.global/18595e04-8ce4-4760-a22d-544429cc1ce8/New%20Project(11).png?v=1717819508041');
-    background-color: #3cb371; /* Medium Sea Green */
+    background-color: #5994ba; /* Medium Sea Green */
 }
 
 #section4 {
   background-image: url('https://cdn.glitch.global/18595e04-8ce4-4760-a22d-544429cc1ce8/New%20Project(14).png?v=1717820738596');
-    background-color: #ffa500; /* Orange */
+    background-color: #c3808b; /* Orange */
 }
 
 header {
