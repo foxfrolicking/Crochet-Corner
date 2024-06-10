@@ -31,17 +31,19 @@ html, body {
 #section1 {
    background-image: url('https://cdn.glitch.global/18595e04-8ce4-4760-a22d-544429cc1ce8/20240610_124923(1).jpg?v=1717990376403');
    background-repeat: no-repeat; 
-   background-size: auto;
+   background-size: 200% 100%;
 }
 
 #section2 {
    background-image: url('https://cdn.glitch.global/18595e04-8ce4-4760-a22d-544429cc1ce8/New%20Project(12)555.png?v=1717820408774');
-    background-color: #3899ab; 
+    background-color: #3899ab;
+  background-size: 250% 100%;
 }
 
 #section3 {
   background-image: url('https://cdn.glitch.global/18595e04-8ce4-4760-a22d-544429cc1ce8/New%20Project(11).png?v=1717819508041');
     background-color: #5994ba; 
+   background-size: 200% 100%;
 }
 
 #section4 {
