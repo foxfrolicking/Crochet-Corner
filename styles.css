@@ -84,6 +84,13 @@ section h3.title {
     text-align: center;
     color: #FCFCFC;
 }
+  .card__body h4 {
+    font-size: 1.5rem;
+    text-transform: capitalize;
+    text-align: center;
+    color: #FCFCFC;
+  }
+  
 
 section p {
     max-width: 775px;
@@ -117,6 +124,11 @@ section p {
     box-shadow: 0 .1rem 1rem rgba(0, 0, 0, 0.1);
     border-radius: 1em;
     background: #2B2D35;
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-10px);
 }
 
 .card__header img {
@@ -128,23 +140,48 @@ section p {
     padding: 1rem;
     display: flex;
     flex-direction: column;
+    align-items: center;
     gap: .5rem;
+    position: relative;
+}
+
+.icon-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 1rem;
+}
+
+.icon-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 3rem;
+    height: 3rem;
+    background-color: #000;
+    border-radius: 50%;
+    color: #FCFCFC;
+    font-size: 1.5rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.icon-container:hover {
+    background-color: #444;
 }
 
 .tag {
-    align-self: flex-start;
-    padding: .25em .75em;
-    border-radius: 1em;
-    font-size: .75rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
     background: #000;
     color: #FCFCFC;
-}
-
-.card__body h4 {
-    font-size: 1.5rem;
-    text-transform: capitalize;
-    text-align: center;
-    color: #FCFCFC;
+    font-size: 0.75rem;
+    font-weight: bold;
 }
 
 @media (max-width: 800px) {
