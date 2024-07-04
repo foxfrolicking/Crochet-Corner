@@ -15,7 +15,7 @@
 <p>How I used Chat-GPT:</p>
 
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/hQgey96_5N4)
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/uZDcRw3tnp4)
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/VIDEO_ID)
+[![Watch the video](https://cdn.glitch.global/18595e04-8ce4-4760-a22d-544429cc1ce8/Screenshot%202024-07-05%20004152.png?v=1720104359320)](https://youtu.be/hQgey96_5N4)
+[![Watch the video](https://cdn.glitch.global/18595e04-8ce4-4760-a22d-544429cc1ce8/Screenshot%202024-07-05%20004126.png?v=1720104348466)](https://youtu.be/uZDcRw3tnp4)
+[![Watch the video](https://cdn.glitch.global/18595e04-8ce4-4760-a22d-544429cc1ce8/Screenshot%202024-07-05%20004056.png?v=1720104332688)](https://youtu.be/7nvm0ea8_YI)
 
