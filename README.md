@@ -1,6 +1,7 @@
 <h1>Assessment 3: Web Futures</h1>
 <p><strong>Rationale</strong></p>
 <p>By Forest.</p>
+<p>Link to website:https://crochet-corner.glitch.me/</p>
 <br>
 <p><strong>Your decision-making process in selecting the topic and incorporating AI-generated content.</strong></p>
 <p>I selected the topic as I didnt know what else to do and figured it would be easy to make something semi aesthetic with assets I already have. I incorporated Chat-GPT to help me integrate scroll animations into the website as a starting base for content as I do not know how to do many scroll animations but wanted to use them for previous UI type/website assignments and when trying I’ve been mostly unsuccessful in the past, I gave Chat-GPT some code as a reference/example as I wasn’t getting the results I wanted in terms of the animation effect. I also used Chat-GPT to enhance the product cards based on the ones used in my previous assignment as I wanted icons but didn't know how to even start integrating them into a website as I have never really needed to learn how to before. I found it very difficult to get Chat-GPT to give the outputs I wanted, I know it has to do with wording but I think I’m just not very good at articulating what I wanted it to do and that is something I think I need to work on as I did find it kinda discouraging.</p> 
