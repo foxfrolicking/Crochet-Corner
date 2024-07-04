@@ -14,6 +14,8 @@
 <br>
 <p>How I used Chat-GPT:</p>
 
-<video src="https://cdn.glitch.me/18595e04-8ce4-4760-a22d-544429cc1ce8/Parallax%20Scoll%20Chat-GPT.mp4?v=1720102702810" width=180/></video>
-<video src="https://cdn.glitch.me/18595e04-8ce4-4760-a22d-544429cc1ce8/Product%20Cards%20Chat-GPT.mp4?v=1720103097669" width=180/></video>
-<video src="https://cdn.glitch.me/18595e04-8ce4-4760-a22d-544429cc1ce8/Product%20Cards%20Chat-GPT.mp4?v=1720103097669" width=180/></video>
+
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/hQgey96_5N4)
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/uZDcRw3tnp4)
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/VIDEO_ID)
+
