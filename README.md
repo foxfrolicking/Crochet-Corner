@@ -18,4 +18,10 @@
 [![Watch the video](https://cdn.glitch.global/18595e04-8ce4-4760-a22d-544429cc1ce8/Screenshot%202024-07-05%20004152.png?v=1720104359320)](https://youtu.be/hQgey96_5N4)
 [![Watch the video](https://cdn.glitch.global/18595e04-8ce4-4760-a22d-544429cc1ce8/Screenshot%202024-07-05%20004126.png?v=1720104348466)](https://youtu.be/uZDcRw3tnp4)
 [![Watch the video](https://cdn.glitch.global/18595e04-8ce4-4760-a22d-544429cc1ce8/Screenshot%202024-07-05%20004056.png?v=1720104332688)](https://youtu.be/7nvm0ea8_YI)
-
+<br>
+<p><strong>Reference List</strong></p>
+<br>
+<p>Alex, D. (n.d.). Pure CSS Parallax Scrolling. CodePen. https://codepen.io/Denis-Alex/pen/dyvLYPa</p>
+<p>Javorkai, P. (n.d.). Simple Startup Landing Page. CodePen. https://codepen.io/javpet/pen/QqMWgd#</p>
+<p>Lima, P. B. (n.d.). Blog card. CodePen. https://codepen.io/pbruny/pen/XWXObeM</p>
+<p>OpenAI. (2024). ChatGPT. https://chatgpt.com/</p>
