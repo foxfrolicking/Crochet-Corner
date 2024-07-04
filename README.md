@@ -13,6 +13,7 @@
 <p>In future I would have hoped to make product pages and a functional cart and have the heart/saved system/user account visible and functioning but I just did not have the time and ability to do so as I have been struggling with health issues that have really limited my ability to complete assignments to any kind of reasonable standard, I am not satisfied with my current outcome but I do not feel I am able to complete it to any further standard right now.</p>
 <br>
 <p>How I used Chat-GPT:</p>
-[![Watch the video](https://cdn.glitch.me/18595e04-8ce4-4760-a22d-544429cc1ce8/Parallax%20Scoll%20Chat-GPT.mp4?v=1720102702810)](https://youtu.be/vt5fpE0bzSY)
 
-<video src='video1.mov' width=180/> | <video src='video2.mp4' width=180/>
+<video src="https://cdn.glitch.me/18595e04-8ce4-4760-a22d-544429cc1ce8/Parallax%20Scoll%20Chat-GPT.mp4?v=1720102702810" width=180/></video>
+<video src="https://cdn.glitch.me/18595e04-8ce4-4760-a22d-544429cc1ce8/Product%20Cards%20Chat-GPT.mp4?v=1720103097669" width=180/></video>
+<video src="https://cdn.glitch.me/18595e04-8ce4-4760-a22d-544429cc1ce8/Product%20Cards%20Chat-GPT.mp4?v=1720103097669" width=180/></video>
